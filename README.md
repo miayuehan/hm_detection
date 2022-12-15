@@ -1,5 +1,7 @@
 # hateful memes detection
 
+## Dataset
 Dataset link: https://hatefulmemeschallenge.com/#download
 
-For more details, refer to scripts
+## Model Training and Eval:
+Refer to the details shown in notebook
