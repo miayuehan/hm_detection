@@ -1,4 +1,4 @@
-# hateful memes detection
+# Hateful Memes Detection
 
 ## Dataset
 Dataset link: https://hatefulmemeschallenge.com/#download
